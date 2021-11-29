@@ -139,9 +139,11 @@ img {
 
 @media (max-width: 1279px) {
   .container {
+    height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 15% 5% 15% 5%;
   }
 
   .article {
